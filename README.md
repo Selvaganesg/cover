@@ -40,6 +40,7 @@ Publish the website in the LocalHost.
    <title>Atomic Habits</title>
    <style>
            #body{
+            border-radius: 10px;
            background-color: #F5ECD5;
            width: 630px;
            height: 800px;
@@ -120,7 +121,7 @@ Publish the website in the LocalHost.
                    </p>
                </div>
            </div>
-           <h1 id="author">James Clear</h1>
+           <h1 id="author">Selvaganesh</h1>
        </div>
    </center>
 </body>
@@ -129,7 +130,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
